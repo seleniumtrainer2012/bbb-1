@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13566" started-at="2018-01-28T17:06:53Z" finished-at="2018-01-28T17:07:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13566" started-at="2018-01-28T17:06:53Z" finished-at="2018-01-28T17:07:07Z">
+      <class name="com.bbbfeo.sanity.testcases.LoginTestcase">
+        <test-method status="PASS" signature="LoginTC()[pri:0, instance:com.bbbfeo.sanity.testcases.LoginTestcase@21a06946]" name="LoginTC" duration-ms="13527" started-at="2018-01-28T12:06:53Z" finished-at="2018-01-28T12:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTC -->
+      </class> <!-- com.bbbfeo.sanity.testcases.LoginTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
